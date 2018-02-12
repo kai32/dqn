@@ -1,2 +1,0 @@
-model_checkpoint_path: "/Users/kaixiangteo/rl/dqn/experiments/MsPacman-v0/checkpoints/model"
-all_model_checkpoint_paths: "/Users/kaixiangteo/rl/dqn/experiments/MsPacman-v0/checkpoints/model"
